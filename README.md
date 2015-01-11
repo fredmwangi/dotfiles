@@ -1,2 +1,2 @@
 # dotfiles
-my terminal settings files
+settings files
