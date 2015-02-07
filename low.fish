@@ -1,3 +1,3 @@
-function ll
-    python ~/.lower.py
+function low
+    python ~/lower.py
 end
